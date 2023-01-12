@@ -1,0 +1,65 @@
+.fa-circle{
+  color: #FFC93C;
+  margin-left: 130px;
+}
+.image{
+  float: left;
+  width: 40%;
+  padding: 7% 2% 2% 15%;
+}
+h1{
+  padding-top: 130px;
+  font-size: 400%;
+  font-family: 'B612', sans-serif;
+}
+.nav-span{
+  font-weight: bold;
+  font-size: 25px;
+}
+.span-class{
+  font-size :15px;
+  color: grey;
+}
+p{
+  width: 65%;
+  text-align: left;
+}
+.cla{
+  margin-right: 150px;
+}
+.res-circle {
+  margin-top: 20px;
+  width: 100%;
+  border-radius: 50%;
+  background: #bcd6ff;
+  line-height: 0;
+  position: relative;
+}
+.res-circle::after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+.circle-txt {
+  position: absolute;
+  bottom: 50%;
+  width: 10%;
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  margin-left: 25px;
+}
+.class1{
+  background-color: #FFC93C;
+}
+.class2{
+  background-color: red;
+}
+.class3{
+  background-color: lightblue;
+}
+.item{
+    border-left: 1px solid grey;
+    margin-left: 10px;
+    padding-left: 10px;
+}
